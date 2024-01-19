@@ -1,4 +1,4 @@
-# Readme.md generator 
+# SVG logo generator  
 
 ## Description
 SVG logo generator using node watch video on line 29 to view exactly how to utilize
@@ -25,3 +25,5 @@ undefined
 undefined
 ## Questions
 Please send your questions [here](mailto:Slest12@outlook.com?subject=[GitHub]%20Dev%20Connect) or visit [github/slest12](https://github.com/slest12).
+
+https://app.screencastify.com/v3/watch/YE7mAyyKA4OE3iSYrChH
